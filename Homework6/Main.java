@@ -11,15 +11,7 @@ public class Main {
             }
        }
 
-       do
-       {
-
-
-
-
-
-       }
-       while (!checkWin);
+       
 
 
 
@@ -42,6 +34,7 @@ public class Main {
 
     public boolean checkWin()
     {
-        
+      
+        return true;
     }
 }
