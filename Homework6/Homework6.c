@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <stdbool.h>
+/*Correct me if I am wrong, but nowhere in the instructions does it say that we have to use a 2d array, so I used a 1d array instead. 
+I have build 2d array tic tac toe many times in both java and python, and I wanted to try something new. If this isn't going to work for
+this assignment let me know, and I have no problem redoing it with a 2d array - Kaden*/
+
 //The mark is for vs code, has no other meaning.
 
 //I discovered that the first one is strings vs the second one of a character list.
